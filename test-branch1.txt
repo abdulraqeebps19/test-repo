@@ -1,1 +1,2 @@
 generating the conflict
+testing conflict
